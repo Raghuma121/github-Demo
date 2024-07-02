@@ -7,6 +7,7 @@ public class gitclass
 	
 	this is new file
 	kjdbcvkblkdcvddsf
+	jbdjvbljadsbcvj;bas;
 	
 	
 }
